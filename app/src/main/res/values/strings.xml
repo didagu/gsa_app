@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NaijaNews</string>
+    <string name="title_item_detail">Newspaper Details</string>
+    <string name="title_item_list">Nigerian Newspapers</string>
+    <string name="skip_button">Skip</string>
+    <string name="done_button">Done</string>
+    <string name="skip">y do u do dis 2 me?</string>
+    <string name="no_title"></string>
+    <string name="opentodoList">Open TODO List</string>
+    <string name="todoList">TODO List</string>
+    <string name="list_activity_title">List of Available Newspapers</string>
+</resources>
